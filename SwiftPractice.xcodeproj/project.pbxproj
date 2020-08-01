@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		3718749224D54D9600EA5487 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3718749124D54D9600EA5487 /* main.swift */; };
+		3718749F24D5711E00EA5487 /* function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3718749E24D5711E00EA5487 /* function.swift */; };
+		371874A124D5816A00EA5487 /* condition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 371874A024D5816A00EA5487 /* condition.swift */; };
+		371874A324D585FA00EA5487 /* repeatition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 371874A224D585FA00EA5487 /* repeatition.swift */; };
+		371874A524D5891D00EA5487 /* optional.swift in Sources */ = {isa = PBXBuildFile; fileRef = 371874A424D5891D00EA5487 /* optional.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +29,10 @@
 /* Begin PBXFileReference section */
 		3718748E24D54D9600EA5487 /* SwiftPractice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftPractice; sourceTree = BUILT_PRODUCTS_DIR; };
 		3718749124D54D9600EA5487 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		3718749E24D5711E00EA5487 /* function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = function.swift; sourceTree = "<group>"; };
+		371874A024D5816A00EA5487 /* condition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = condition.swift; sourceTree = "<group>"; };
+		371874A224D585FA00EA5487 /* repeatition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = repeatition.swift; sourceTree = "<group>"; };
+		371874A424D5891D00EA5487 /* optional.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = optional.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +66,10 @@
 			isa = PBXGroup;
 			children = (
 				3718749124D54D9600EA5487 /* main.swift */,
+				3718749E24D5711E00EA5487 /* function.swift */,
+				371874A024D5816A00EA5487 /* condition.swift */,
+				371874A224D585FA00EA5487 /* repeatition.swift */,
+				371874A424D5891D00EA5487 /* optional.swift */,
 			);
 			path = SwiftPractice;
 			sourceTree = "<group>";
@@ -120,7 +132,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				371874A324D585FA00EA5487 /* repeatition.swift in Sources */,
+				371874A524D5891D00EA5487 /* optional.swift in Sources */,
 				3718749224D54D9600EA5487 /* main.swift in Sources */,
+				3718749F24D5711E00EA5487 /* function.swift in Sources */,
+				371874A124D5816A00EA5487 /* condition.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
