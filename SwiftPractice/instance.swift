@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  instance.swift
 //  SwiftPractice
 //
 //  Created by Oh Donggeon on 2020/08/02.
@@ -8,7 +8,6 @@
 
 import Foundation
 
-instance()
-optionalBinding()
-nilCoalescing()
-typeCasting()
+func instance() {
+    
+}

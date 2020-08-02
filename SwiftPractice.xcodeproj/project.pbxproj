@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		3718749224D54D9600EA5487 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3718749124D54D9600EA5487 /* main.swift */; };
+		3793449724D6863B006A37FE /* instance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3793449624D6863B006A37FE /* instance.swift */; };
+		3793449924D68660006A37FE /* optional.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3793449824D68660006A37FE /* optional.swift */; };
+		3793449B24D68669006A37FE /* casting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3793449A24D68669006A37FE /* casting.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		3718748E24D54D9600EA5487 /* SwiftPractice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftPractice; sourceTree = BUILT_PRODUCTS_DIR; };
 		3718749124D54D9600EA5487 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		3793449624D6863B006A37FE /* instance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = instance.swift; sourceTree = "<group>"; };
+		3793449824D68660006A37FE /* optional.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = optional.swift; sourceTree = "<group>"; };
+		3793449A24D68669006A37FE /* casting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = casting.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				3718749124D54D9600EA5487 /* main.swift */,
+				3793449624D6863B006A37FE /* instance.swift */,
+				3793449824D68660006A37FE /* optional.swift */,
+				3793449A24D68669006A37FE /* casting.swift */,
 			);
 			path = SwiftPractice;
 			sourceTree = "<group>";
@@ -120,6 +129,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3793449724D6863B006A37FE /* instance.swift in Sources */,
+				3793449B24D68669006A37FE /* casting.swift in Sources */,
+				3793449924D68660006A37FE /* optional.swift in Sources */,
 				3718749224D54D9600EA5487 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

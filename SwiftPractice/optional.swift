@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  optional.swift
 //  SwiftPractice
 //
 //  Created by Oh Donggeon on 2020/08/02.
@@ -8,7 +8,10 @@
 
 import Foundation
 
-instance()
-optionalBinding()
-nilCoalescing()
-typeCasting()
+func optionalBinding() {
+    
+}
+
+func nilCoalescing() {
+    
+}
