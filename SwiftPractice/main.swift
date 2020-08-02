@@ -9,6 +9,6 @@
 import Foundation
 
 instance()
-optionalBinding()
+optionalChaining()
 nilCoalescing()
 typeCasting()
