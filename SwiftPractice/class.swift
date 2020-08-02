@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  class.swift
 //  SwiftPractice
 //
 //  Created by Oh Donggeon on 2020/08/02.
@@ -8,6 +8,6 @@
 
 import Foundation
 
-structEx()
-classEx()
-enumEx()
+func classEx() {
+    
+}
