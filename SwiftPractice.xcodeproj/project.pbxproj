@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		3718749224D54D9600EA5487 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3718749124D54D9600EA5487 /* main.swift */; };
+		377F595224DFAE0F00F34076 /* AssertAndGuard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 377F595124DFAE0F00F34076 /* AssertAndGuard.swift */; };
+		377F595424DFB7A200F34076 /* Protocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 377F595324DFB7A200F34076 /* Protocol.swift */; };
+		37A0DDAB24DFC16F00E300E0 /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37A0DDAA24DFC16F00E300E0 /* Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		3718748E24D54D9600EA5487 /* SwiftPractice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftPractice; sourceTree = BUILT_PRODUCTS_DIR; };
 		3718749124D54D9600EA5487 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		377F595124DFAE0F00F34076 /* AssertAndGuard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssertAndGuard.swift; sourceTree = "<group>"; };
+		377F595324DFB7A200F34076 /* Protocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Protocol.swift; sourceTree = "<group>"; };
+		37A0DDAA24DFC16F00E300E0 /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				3718749124D54D9600EA5487 /* main.swift */,
+				377F595124DFAE0F00F34076 /* AssertAndGuard.swift */,
+				377F595324DFB7A200F34076 /* Protocol.swift */,
+				37A0DDAA24DFC16F00E300E0 /* Extension.swift */,
 			);
 			path = SwiftPractice;
 			sourceTree = "<group>";
@@ -121,6 +130,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				3718749224D54D9600EA5487 /* main.swift in Sources */,
+				377F595224DFAE0F00F34076 /* AssertAndGuard.swift in Sources */,
+				377F595424DFB7A200F34076 /* Protocol.swift in Sources */,
+				37A0DDAB24DFC16F00E300E0 /* Extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

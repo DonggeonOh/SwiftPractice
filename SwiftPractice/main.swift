@@ -8,5 +8,7 @@
 
 import Foundation
 
-print("Hello, World!")
-
+`assert`()
+`guard`()
+`protocol`()
+`extension`()
